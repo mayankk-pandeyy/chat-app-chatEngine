@@ -2,7 +2,5 @@ You Can Visit the website : https://chat-webapp-mayank.netlify.app/
 
 # Screenshots
 
-![Uploading Screenshot 2023-12-03 at 10.20.22 PM.png…]()
 
-
-![Uploading Screenshot 2023-12-03 at 10.20.54 PM.png…]()
+<img width="1440" alt="Screenshot 2024-01-06 at 12 05 31 PM" src="https://github.com/mayankk-pandeyy/chat-app-chatEngine/assets/121502820/df31087b-07d5-423e-8e48-867020e64a98">
